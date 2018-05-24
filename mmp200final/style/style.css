@@ -1,0 +1,44 @@
+body{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+h2{
+	font-size: 20px;
+	color: grey;
+	background-color: white;
+	padding-top: 3%;
+}
+
+li{
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+}
+
+.button1 {
+	margin-right: ;
+}
+
+.button2 {
+	margin-left: ;
+}
+
+.container img{
+	width: 40px;
+	height: 40px;
+	float: right;
+}
+
+.container h2{
+	position: relative;
+	right: 10px;
+}
+
+a{
+	color: white;
+}
+
+a:visited{
+	text-decoration: none;
+}
